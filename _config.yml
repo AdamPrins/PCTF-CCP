@@ -1,2 +1,5 @@
 include: [".htaccess", "README.md", "LICENCE.md"]
 markdown: kramdown
+relative_links:
+  enabled:     true
+  collections: true
