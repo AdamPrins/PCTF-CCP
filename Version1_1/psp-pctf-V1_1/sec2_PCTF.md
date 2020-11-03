@@ -45,7 +45,7 @@ Currently, the scope of the Pan-Canadian Trust Framework is:
 
 The PCTF Model, as shown in Figure 1, is a high-level overview of the PCTF in diagram form.
 
-![Figure 1: The Pan-Canadian Trust Framework Model](../images/PCTF-V1_1_FINAL.png)
+![Figure 1: The Pan-Canadian Trust Framework Model](/images/PCTF-V1_1_FINAL.png)
 
 The Pan-Canadian Trust Framework Model
 {: .figure}
