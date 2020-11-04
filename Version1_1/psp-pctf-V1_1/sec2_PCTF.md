@@ -128,7 +128,7 @@ The primary function of the PCTF is to assess and certify existing business proc
 
 For example, a business process that one party refers to as *Identity Confirmation* may in fact turn out to be a compound process consisting of 5 atomic processes as shown in Figure 4.
 
-![Figure 4: Example of a Compound Process (Modeled)](images/Figure%20-%20Example%20of%20a%20Compound%20Process.png)
+![Figure 4: Example of a Compound Process (Modeled)](../../images/Figure%20-%20Example%20of%20a%20Compound%20Process.png)
 
 Example of a Compound Process (Modeled)
 {: .figure}
