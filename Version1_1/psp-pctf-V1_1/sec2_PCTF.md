@@ -239,7 +239,7 @@ Methods encompass the sets of rules that govern such things as data models, comm
 
 Conveyance mechanisms are the various methods by which the output of one atomic process is made available for use as the input to another atomic process. As can be seen in Figure 6, the conveyance mechanisms are situated between the parties producing and consuming the output states of atomic processes.
 
-![Figure 6: Conveying Output States between Parties](images/Figure%20-%20Conveying%20Output%20States%20between%20Parties.png)
+![Figure 6: Conveying Output States between Parties](/PCTF-CCP/images/Figure%20-%20Conveying%20Output%20States%20between%20Parties.png)
 
 Conveying Output States between Parties
 {: .figure}
