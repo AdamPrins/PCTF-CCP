@@ -104,7 +104,7 @@ It should be noted that two atomic processes -- *Identity Information Determinat
 
 An atomic process is a set of logically related activities that results in the state transition of an object. The object’s output state can be relied on by other atomic processes. Figure 2 illustrates the atomic process model.
 
-![Figure 2: Atomic Process Model](images/Figure%20-%20Atomic%20Process%20Model.png)
+![Figure 2: Atomic Process Model](/images/Figure%20-%20Atomic%20Process%20Model.png)
 
 Atomic Process Model
 {: .figure}
@@ -117,7 +117,7 @@ The atomic processes are detailed in Section 2.7.
 
 Figure 3 illustrates some model diagrams of three atomic processes.
 
-![Figure 3: Examples of Atomic Processes (Modeled)](images/Figure%20-%20Examples%20of%20Atomic%20Processes.png)
+![Figure 3: Examples of Atomic Processes (Modeled)](./images/Figure%20-%20Examples%20of%20Atomic%20Processes.png)
 
 Examples of Atomic Processes (Modeled)
 {: .figure}
