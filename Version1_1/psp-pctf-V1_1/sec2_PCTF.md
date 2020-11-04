@@ -224,7 +224,7 @@ The Supporting Infrastructure is the set of operational and technical policies, 
 
 Figure 5 illustrates some elements (with examples) of what could constitute a Supporting Infrastructure.
 
-![Figure 5: Supporting Infrastructure](images/Figure%20-%20Supporting%20Infrastructure.png)
+![Figure 5: Supporting Infrastructure](PCTF-CCP/images/Figure%20-%20Supporting%20Infrastructure.png)
 
 Supporting Infrastructure
 {: .figure}
