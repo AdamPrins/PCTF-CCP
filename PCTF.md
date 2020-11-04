@@ -4,6 +4,11 @@ title: "PCTF V1.1"
 description: "version 1.1 of the Pan-Canadian Trust Framework"
 ---
 
+{{site.url}}|
+{{page.url}}|
+{{site.base_url}}|
+{{site.baseurl}}
+
 <div class="startCounter"></div>
 
 {% include_relative Version1_1/psp-pctf-V1_1/cover.md %}
