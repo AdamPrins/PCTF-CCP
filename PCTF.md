@@ -6,7 +6,8 @@ description: "version 1.1 of the Pan-Canadian Trust Framework"
 
 {{site.url}}|
 {{page.url}}|
-{{site.base_url}}
+{{site.base_url}}|
+{{site.baseurl}}
 
 <div class="startCounter"></div>
 
